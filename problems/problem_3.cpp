@@ -21,6 +21,7 @@ std::string problemSolution3(float height, char S) {
         }
     }
 
+
     // use return to return your result
     // make use of control flow statements
 }
